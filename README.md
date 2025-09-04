@@ -6,6 +6,9 @@
 - 📝 I sometimes write articles on [dev.to](dev.to)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UJDb7Gw7oLIgIeEkVDuqxcOKJWhdHeQXjhHxEY-24jU/edit?usp=sharing](https://docs.google.com/document/d/1UJDb7Gw7oLIgIeEkVDuqxcOKJWhdHeQXjhHxEY-24jU/edit?usp=sharing)
+- Recent projects:
+   [Rock-Paper-Scissors](https://naderfkihhassen.github.io/Rock-Paper-Scissors/)
+   [Todo-List](https://naderfkihhassen.github.io/Todo-List/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
